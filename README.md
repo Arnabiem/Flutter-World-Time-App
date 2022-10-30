@@ -1,6 +1,6 @@
 # world_time_app
 
-A new Flutter project.
+A new Flutter project which will fetch world time api & show it to screen.
 
 ## Getting Started
 
