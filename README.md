@@ -1,16 +1,8 @@
-# world_time_app
+# Flutter World Time App
 
-A new Flutter project which will fetch world time api & show it to screen.
+A  Flutter app which will fetch worldwide timings by using world time api & show it to screen.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2023-02-10_21-49-48](https://user-images.githubusercontent.com/82289240/218144735-e2fe9d01-f7f6-49a3-9895-fba70015d2a3.jpg)
+![photo_2023-02-10_21-54-31](https://user-images.githubusercontent.com/82289240/218144742-276d5e9a-e139-4f8c-a2a1-3b51030137a9.jpg)
+![photo_2023-02-10_21-54-38](https://user-images.githubusercontent.com/82289240/218144751-cb094a40-5470-4e17-82e7-8c90a06a4fc0.jpg)
